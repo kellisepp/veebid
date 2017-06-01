@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://ks.local:8080/PackageWebApplication2/PackageService?wsdl" uri="xml-resources/web-service-references/PackageService/wsdl/ks.local_8080/PackageWebApplication2/PackageService.wsdl"/>
+</catalog>
